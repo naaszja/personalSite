@@ -90,3 +90,7 @@ hr {
   top: 1935px;
   right: 350px;
 }
+.newSkills img {
+  height: 200px;
+  width: auto;
+}
