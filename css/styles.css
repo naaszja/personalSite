@@ -3,7 +3,6 @@ body {
   font-family: "Book Antiqua", verdana, sans-serif;
   text-align: center;
   background-color: #97e5ef;
-  /*#25CAF7;*/
   color: white;
   font-size: 1.5em;
 }
@@ -16,10 +15,11 @@ h1 {
 
 h2 {
   font-size: 2.5rem;
+  color: #4b90db;
 }
 
 a {
-  color: #11999e;
+  color: #fcf876;
 }
 
 hr {
@@ -99,15 +99,6 @@ hr {
   text-align: left;
 }
 
-.skillsRow h3 {
-  margin-bottom: -30px;
-  margin-left: 273px;
-}
-
-.skillsRow h4 {
-  margin-left: 273px;
-}
-
 .newSkills {
   width: 60%;
   margin: 50px auto 50px auto;
@@ -128,5 +119,9 @@ hr {
   margin-left: 30px;
   float: right;
   position: relative;
-  top: -35px;
+  top: 0;
+}
+
+.contEdu {
+  text-align: justify;
 }
