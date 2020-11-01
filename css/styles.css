@@ -2,24 +2,24 @@ body {
   margin: 0;
   font-family: "Book Antiqua", verdana, sans-serif;
   text-align: center;
-  background-color: #4b90db;
+  background-color: #a2d5f2;
   color: white;
   font-size: 1.5em;
 }
 
 h1 {
-  margin: 30px auto 0 auto;
+  margin: 0 auto 0 auto;
   font-family: 'Courgette', verdana, sans-serif;
   font-size: 4.5rem;
 }
 
 h2 {
   font-size: 2.5rem;
-  color: #fcf876;
+  color: #ffe277;
 }
 
 a {
-  color: #97e5ef;
+  color: #07689f;
 }
 
 hr {
@@ -30,29 +30,18 @@ hr {
   width: 15%;
 }
 
-.intro {
-  margin: 0;
-  position: relative;
-  top: -30px;
-  background-image: url("https://wallpaper-house.com/data/out/9/wallpaper2you_361080.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 999px;
-}
-
-.introText {
-  position: relative;
-  top: 425px;
-}
-
 .hello {
   font-weight: normal;
 }
 
-.sun {
+.introText {
   position: relative;
-  right: 400px;
-  height: 15em
+  top: 120px
+}
+
+.cabin {
+  position: relative;
+  top: 15px;
 }
 
 .middle img {
