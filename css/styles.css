@@ -34,7 +34,7 @@ hr {
   margin: 0;
   position: relative;
   top: -30px;
-  background-image: url(https://wallpaper-house.com/data/out/9/wallpaper2you_361080.jpg);
+  background-image: url("https://wallpaper-house.com/data/out/9/wallpaper2you_361080.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 999px;
