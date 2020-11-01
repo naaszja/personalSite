@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: "Book Antiqua", verdana, sans-serif;
   text-align: center;
-  background-color: #97e5ef;
+  background-color: #4b90db;
   color: white;
   font-size: 1.5em;
 }
@@ -19,7 +19,7 @@ h2 {
 }
 
 a {
-  color: #4b90db;
+  color: #97e5ef;
 }
 
 hr {
@@ -127,9 +127,11 @@ hr {
   margin-left: 30px;
   float: right;
   position: relative;
-  top: 0;
+  top: 10px;
 }
 
 .contEdu {
   text-align: justify;
+  position: relative;
+  top: 10px;
 }
