@@ -36,12 +36,21 @@ hr {
 
 .introText {
   position: relative;
-  top: 120px
+  top: 150px;
 }
 
 .cabin {
   position: relative;
   top: 15px;
+}
+
+.cabin p {
+  font-size: 0.5em;
+  margin: 0;
+  position: relative;
+  top: -30px;
+  right: -230px;
+  font-size: 0.5em
 }
 
 .middle img {
@@ -77,7 +86,7 @@ hr {
 
 .skillsRow {
   width: 60%;
-  margin: 50px auto 50px auto;
+  margin: 50px auto 0 auto;
   text-align: left;
 }
 
