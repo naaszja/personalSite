@@ -20,6 +20,13 @@ h2 {
 
 a {
   color: #07689f;
+  margin: 10px 20px;
+  font-family: "Book Antiqua", verdana, sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
 }
 
 hr {
@@ -119,7 +126,7 @@ hr {
 }
 
 .contact-me p {
-  color: #ffd31d;
+  color: #fcdf76;
 }
 
 .BUTTON_DOK {
@@ -127,7 +134,7 @@ hr {
   -moz-border-radius: 20px;
   border-radius: 20px;
   color: #07689f;
-  font-family: serif;
+  font-family: "Book Antiqua", verdana, sans-serif;
   font-size: 1.5rem;
   font-weight: 100;
   padding: 12px;
@@ -159,4 +166,8 @@ hr {
 
 .end {
   background-color: #0278ae;
+}
+
+.copyright {
+  font-size: 1rem;
 }
